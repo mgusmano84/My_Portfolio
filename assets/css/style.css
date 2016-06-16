@@ -1,0 +1,29 @@
+.pic {
+	content:url(../images/Matt.jpg);
+	width: 60px;
+	height: 60px;
+
+}
+
+.navcol {
+	background-color: darkblue;
+	position: fixed;
+	z-index: 10;
+}
+
+.pos1 {
+	
+}
+
+
+#font1{
+	font-family: 'Inconsolata';
+	float: left;
+	
+}
+
+#propic {
+	content:url(../images/Matt.jpg);
+	size: 50%;
+	float: left;
+}
